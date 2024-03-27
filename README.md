@@ -1,5 +1,7 @@
 # Files for Project Assignment "NetPipe"
 
+A simple application data trasmission encryption and decryption application.
+
 - `README.md` This file. It is in in Markdown format. You can view it as a text file, or use a Markdown preview tool (there are plenty). 
 - `NetPipeClient.java` is a working client for the NetPipe application, without security.
 - `NetPipeServer.java` is a working server for the NetPipe application, without security.
